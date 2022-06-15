@@ -1,5 +1,5 @@
 # Dev Landing Page
-[https://www.rodneyboachie.com](https://www.rodneyboachie.com)
+[https://nknyarko.github.io](https://nknyarko.github.io)
 
 Minimal landing page for developers.
 
@@ -32,7 +32,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Ace](https://www.rodneyboachie.com)
+Here's my **Dev Landing Page** - (https://nknyarko.github.io)
 
 ### Custom Domain
 
